@@ -26,8 +26,7 @@ Welcome to my GitHub profile! I’m passionate about building **scalable, person
 ---
 
 ## 📊 GitHub Stats
-![Maxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxxcyang&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxxcyang&layout=compact&theme=tokyonight)  
+![Maxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxxcyang&show_icons=true&theme=tokyonight)   
 
 ---
 
