@@ -21,12 +21,7 @@ Welcome to my GitHub profile! I’m passionate about building **scalable, person
 ## 🛠️ Tech Stack
 **Languages:** Python, Java, C/C++, JavaScript  
 **Frameworks & Tools:** React, Express, Node.js, FastAPI, Nest.js, Docker, Git, AWS  
-**Concepts:** CI/CD, Agile, RESTful APIs, Scalability, ML Pipelines, Version Control, Security  
-
----
-
-## 📊 GitHub Stats
-![Maxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxxcyang&show_icons=true&theme=tokyonight)   
+**Concepts:** CI/CD, Agile, RESTful APIs, Scalability, ML Pipelines, Version Control, Security   
 
 ---
 
